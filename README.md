@@ -66,10 +66,14 @@ Todas as máquinas em modo **Bridge** na mesma faixa `192.168.0.x`.
 
 ### Parte 5 — Linha do tempo
 15:49:32 — Atacante exporta 7 relatórios (vazamento de dados)
+
 16:00:46 — Inicia resgates em loop (10x 50.000 pts)
+
 16:00:48 — Wazuh detecta e gera alerta crítico (rule 110003)
+
 16:00:54 — Segunda confirmação do ataque (firedtimes: 2)
 
+---
 ### Parte 6 — Conclusão
 
 | Item | Detalhe |
